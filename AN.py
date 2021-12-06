@@ -9,5 +9,5 @@ bot.remove_command('help')
 async def on_ready():
 	print(f'{bot.user} is connected! Лолл')
 
-bot.run('OTE3MDAyOTQzNDExMTM0NDk0.YayXig.vXzu-7WNHMB4VO85ivaHCKsIE00')
+bot.run('OTE3MDAyOTQzNDExMTM0NDk0.YayXig.pxGaP75D5HRIO56Ya8oZud-zIrk')
 
